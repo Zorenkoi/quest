@@ -1,0 +1,41 @@
+{
+  "quest": [
+    {
+      "id": "0e3c",
+      "title": "love",
+      "questions": [
+        {
+          "questionText": "first",
+          "variants": [
+            "first",
+            "l",
+            "l"
+          ],
+          "trueVariant": 0,
+          "id": "o1QRzdAVPAuh806ylN0nw"
+        },
+        {
+          "questionText": "second",
+          "variants": [
+            "l",
+            "second",
+            "l"
+          ],
+          "trueVariant": 0,
+          "id": "yW5d-TCXcmy-7v38_fKHT"
+        },
+        {
+          "questionText": "third",
+          "variants": [
+            "l",
+            "l",
+            "tird"
+          ],
+          "trueVariant": 0,
+          "id": "91lPPY_uMeW4JDz6OjJQp"
+        }
+      ],
+      "createdAt": "2024-12-01T08:37:23.985Z"
+    }
+  ]
+}
